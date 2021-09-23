@@ -2,6 +2,9 @@ package it.uom.cse;
 
 import java.util.Arrays;
 
+/**
+ * This is a class
+ */
 
 public class MathOperation {
 
